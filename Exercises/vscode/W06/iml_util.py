@@ -812,7 +812,7 @@ def bar_comparison_plot(rmses_linear, rmses_quad):
         rmses_quad: Results from the quadratic model.
     """
     width = 0.3
-    datasets = ["p0", "p1", "p2", "p3"]
+    datasets = ["Grid", "Circle", "Line", "Random"]
     bx = np.arange(len(datasets))
     plt.bar(bx, rmses_linear, width, label="Linear", alpha = 0.8) 
     plt.bar(bx + width, rmses_quad, width, label="Quadratic", alpha = 0.8) 
