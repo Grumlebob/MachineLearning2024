@@ -75,12 +75,13 @@ class CNNBasic(nn.Module):
         super().__init__()
         #Define network archtechture with two convolutional layers and two linear layers
        
-        # 8 kernels each with size 9
+        # 8 kernels each with size 9x9
         self.conv_1 = nn.Conv2d(1, 8, kernel_size=9) 
        
         # layer that for each of the  8 channels from previous layer
-        #  having 16 kernels each of size 3
-        self.conv_3 = nn.Conv2d(8, 16, kernel_size=3) 
+        #  having 16 kernels each of size 3x3
+        self.conv_3 = nn.Conv2d(8, 16, kernel_size=3)
+        # Fully connected layers 
         self.linear_1 = nn.Linear(4 ** 2 * 16, 60)
         self.linear_2 = nn.Linear(60, 10)
 
