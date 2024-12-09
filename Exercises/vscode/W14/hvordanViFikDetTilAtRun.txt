@@ -1,0 +1,6 @@
+1.
+cd. into W00
+
+2.
+conda activate imltwo
+
