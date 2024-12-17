@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="QecgUJXpY4AKDSv39vpL">
+    <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DTfyCFZ58FffVUjiNzRJ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.researchgate.net/publication/340034692/figure/fig1/AS:870930318385152@1584657377357/Confusion-matrix-and-performance-equations-The-confusion-matrix-included-four.png;clipPath=inset(0% 40.67% 0% 0%);" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="850" height="477.5280898876404" as="geometry" />
+        </mxCell>
+        <mxCell id="DTfyCFZ58FffVUjiNzRJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f20707;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DTfyCFZ58FffVUjiNzRJ-4" value="&lt;b&gt;&lt;u&gt;False positive rate&lt;/u&gt;&lt;br&gt;(Cares about high&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;True Negatives - Isn&#39;t unfairly&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;skewed, because 90%&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;of data is True Positive&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="780" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTfyCFZ58FffVUjiNzRJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ff0000;" edge="1" parent="1" source="DTfyCFZ58FffVUjiNzRJ-2" target="DTfyCFZ58FffVUjiNzRJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
