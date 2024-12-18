@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="Z_3QSPa51Uc_CDFxW74m">
+    <mxGraphModel dx="683" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="znG3aS7s43F1jOSeG_Ns-2" value="&lt;b&gt;Affine classification&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="298" y="28" width="131" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="znG3aS7s43F1jOSeG_Ns-3" value="&lt;b&gt;Polynomial classification&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="283" y="277" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="znG3aS7s43F1jOSeG_Ns-12" value="1. &quot;See Gaze - using Linear Squares to learn model parameters&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="201" y="61" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="znG3aS7s43F1jOSeG_Ns-14" value="3. Prediction = f&lt;sub&gt;w&lt;/sub&gt;(x) = sign(w&lt;sub&gt;0&lt;/sub&gt;&amp;nbsp;+ w&lt;sup&gt;T&lt;/sup&gt;x)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="160" width="219" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="znG3aS7s43F1jOSeG_Ns-15" value="2. Setting the decision boundary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264" y="105" width="189" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
